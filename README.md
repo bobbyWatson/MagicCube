@@ -1,0 +1,2 @@
+# MagicCube
+Javascript nodeJS app
